@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Tse Xin&#39;s work attachment at Science Centre Design Fabrication Space</title>
-    <link>/posts/</link>
+    <link>https://taytsexin.github.io/tsexinwebsite/posts/</link>
     <description>Recent content in Posts on Tse Xin&#39;s work attachment at Science Centre Design Fabrication Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://taytsexin.github.io/tsexinwebsite/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Day 5</title>
-      <link>/posts/2022-06-03/</link>
+      <link>https://taytsexin.github.io/tsexinwebsite/posts/2022-06-03/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2022-06-03/</guid>
+      <guid>https://taytsexin.github.io/tsexinwebsite/posts/2022-06-03/</guid>
       <description>I created simulations of circuits in Tinkercad and made a PowerPoint on it.</description>
     </item>
     
     <item>
+      <title>Day 4</title>
+      <link>https://taytsexin.github.io/tsexinwebsite/posts/2022-06-02/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://taytsexin.github.io/tsexinwebsite/posts/2022-06-02/</guid>
+      <description>I finished the replica of DFS in GatherTown and started working on a replica of Level 2 of Science Centre. I also tried a drone simulator and programmed a drone to do certain actions from an ipad.</description>
+    </item>
+    
+    <item>
+      <title>Day 3</title>
+      <link>https://taytsexin.github.io/tsexinwebsite/posts/2022-06-01/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://taytsexin.github.io/tsexinwebsite/posts/2022-06-01/</guid>
+      <description>I started making a replica of DFS in GatherTown and made PowerPoints on making a GatherTown space, such as how to add custom objects into the space. I also worked on a PowerPoint on how to use FFMPEG to edit videos.</description>
+    </item>
+    
+    <item>
+      <title>Day 2</title>
+      <link>https://taytsexin.github.io/tsexinwebsite/posts/2022-05-31/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://taytsexin.github.io/tsexinwebsite/posts/2022-05-31/</guid>
+      <description>I learnt how to use a laser cutter and made a few light boxes as tokens of appreciation for Science Centre competitions.</description>
+    </item>
+    
+    <item>
       <title>Day 1</title>
-      <link>/posts/2022-05-30/</link>
+      <link>https://taytsexin.github.io/tsexinwebsite/posts/2022-05-30/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2022-05-30/</guid>
+      <guid>https://taytsexin.github.io/tsexinwebsite/posts/2022-05-30/</guid>
       <description>I learnt how to create a website using Visual Studio Code, Githubm Gitbash etc.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/2022-05-31/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2022-05-31/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/2022-06-01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2022-06-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/2022-06-02/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2022-06-02/</guid>
-      <description></description>
     </item>
     
   </channel>
